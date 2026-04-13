@@ -9,7 +9,7 @@ Actualemnte, el trabajo de este grupo de investigación se centra en dos aspecto
 - Su misión primordial es generar conocimiento científico en el campo de la ingeniería ambiental, con énfasis en las metodologías del ciclo de vida, la ecología industrial y la economía circular.
 - Promueve la mejora de la enseñanza en temas ambientales y de desarrollo sostenible, apoyando tesis de grado y maestría y formando a futuros investigadores en programas de doctorado y posdoctorados. 
 
-## 🔬 Research areas
+## 🔬 Áreas de Investigación
 - Análisis de Ciclo de Vida (ACV)
 - Ecología industrial
 - Economía Circular
